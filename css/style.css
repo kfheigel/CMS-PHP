@@ -1,0 +1,22 @@
+.pager li .active_link{
+    background: rgb(170,170,170) !important;
+    color: #000 !important;
+    
+}
+.no_post:link
+{
+	color: #000;
+    text-decoration:none;
+}
+
+.no_post:visited
+{
+	color: #000;
+    text-decoration:none;
+}
+
+.no_post:hover
+{
+	color: #000;
+    text-decoration:none;
+}
